@@ -1,0 +1,51 @@
+{
+  "achmegantara@gmail,com" : {
+    "-LTfNDA76B85cV-fgYaW" : {
+      "acceleroX" : "0.24420857",
+      "acceleroY" : "5.4246626",
+      "acceleroZ" : "9.533113",
+      "accellinearx" : "-0.22270079",
+      "accellineary" : "0.24445152",
+      "accellinearz" : "-0.13101864",
+      "azimuth" : "292.69318",
+      "magnetoX" : "14.5",
+      "magnetoY" : "-12.4",
+      "magnetoZ" : "13.6",
+      "name" : "achmegantara@gmail.com",
+      "pitch" : "-29.607443",
+      "roll" : "2.237202"
+    },
+    "-LTfNcecAZhIO9HXjkYv" : {
+      "acceleroX" : "0.545878",
+      "acceleroY" : "-0.12988544",
+      "acceleroZ" : "9.71986",
+      "accellinearx" : "-0.07468653",
+      "accellineary" : "-0.08807522",
+      "accellinearz" : "-0.06704712",
+      "azimuth" : "125.9258",
+      "magnetoX" : "24.1",
+      "magnetoY" : "-36.3",
+      "magnetoZ" : "13.8",
+      "name" : "achmegantara@gmail.com",
+      "pitch" : "0.24427873",
+      "roll" : "3.6281326"
+    }
+  },
+  "angelerridho@gmail,com" : {
+    "-LTfObCeyrz3TZdiss1b" : {
+      "acceleroX" : "0.11492168",
+      "acceleroY" : "0.5554548",
+      "acceleroZ" : "9.595961",
+      "accellinearx" : "0.0",
+      "accellineary" : "0.0",
+      "accellinearz" : "0.0",
+      "azimuth" : "0.0",
+      "magnetoX" : "0.0",
+      "magnetoY" : "0.0",
+      "magnetoZ" : "0.0",
+      "name" : "angelerridho@gmail.com",
+      "pitch" : "0.0",
+      "roll" : "0.0"
+    }
+  }
+}
